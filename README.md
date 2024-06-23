@@ -1,4 +1,4 @@
-<h1 align='center'>Greetings 😁 I'm Abhijtih Viju Priya Rani</h1>
+<h1 align='center'>Hi There ! 😁 I'm Abhijtih Viju Priya Rani</h1>
 
 - 💎 I’m currently working on ✨ **React, Back-end development** ✨
 - 🌱 I’m currently learning ✨ **Next.Js, Databases** ✨

@@ -24,7 +24,6 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg' width=50 height=50> 
   
 </p>
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=abhiiii05&show_icons=true&theme=radical)
 <!--
 **abhiiii05/abhiiii05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

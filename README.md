@@ -1,5 +1,7 @@
 <h1 align='center'>Hi There ! 😁 I'm Abhijtih Viju Priya Rani</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiii05&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiii05" /> </p>
+
 - 💎 I’m currently working on ✨ **React, Back-end development** ✨
 - 🌱 I’m currently learning ✨ **Next.Js, Databases** ✨
 - 💬 Ask me about ✨**Web Design, Wire Framing** ✨

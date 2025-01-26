@@ -26,6 +26,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg' width=50 height=50> 
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=50 height=50>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg' width=50 height=50> 
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width=50 height=50>
   
   
 </p>

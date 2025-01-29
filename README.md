@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiii05&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiii05" /> </p>
 
-- 💎 I’m currently working on ✨ **React, Back-end development** ✨
-- 🌱 I’m currently learning ✨ **Next.Js, Databases** ✨
+- 💎 I’m currently working on ✨ **NextJs, Back-end development** ✨
+- 🌱 I’m currently learning ✨ **Dev-Ops** ✨
 - 💬 Ask me about ✨**Web Design, Wire Framing** ✨
 - 📫 How to reach me: ✨ **abhijithviju2005@gmail.com** ✨
 

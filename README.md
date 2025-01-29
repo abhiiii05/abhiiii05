@@ -27,6 +27,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=50 height=50>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg' width=50 height=50> 
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width=50 height=50>
+  <img src='https://clerk.com/_next/image?url=%2Fimages%2Flogo.png&w=96&q=75' width=50 height=50>
   
 </p>
 

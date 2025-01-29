@@ -27,6 +27,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=50 height=50>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg' width=50 height=50> 
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width=50 height=50>
+  ![Clerk Logo](https://raw.githubusercontent.com/abhiiii05/abhiiii05/main/assets/clerk-logo.png)
   
 </p>
 
